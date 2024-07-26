@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'YTValidation_Example' do
+  pod 'YTValidation', :path => '../'
+
+  target 'YTValidation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
