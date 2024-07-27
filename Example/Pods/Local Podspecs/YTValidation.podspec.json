@@ -1,0 +1,22 @@
+{
+  "name": "YTValidation",
+  "version": "0.1.0",
+  "summary": "A short description of YTValidation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yashtechgit/YTValidation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yashtechgit": "yashtechnologies1@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yashtechgit/YTValidation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YTValidation/Classes/**/*"
+}

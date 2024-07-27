@@ -1,0 +1,16 @@
+PODS:
+  - YTValidation (0.1.0)
+
+DEPENDENCIES:
+  - YTValidation (from `../`)
+
+EXTERNAL SOURCES:
+  YTValidation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YTValidation: fe02ba5917b0e4438e7b36a4bf5f13c0f6a2a382
+
+PODFILE CHECKSUM: 6517d2ebaeedc0a47c6b2863129649d1357410f9
+
+COCOAPODS: 1.15.2

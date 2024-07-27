@@ -1,0 +1,6 @@
+framework module YTValidation {
+  umbrella header "YTValidation-umbrella.h"
+
+  export *
+  module * { export * }
+}

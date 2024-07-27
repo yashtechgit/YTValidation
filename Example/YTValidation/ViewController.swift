@@ -7,11 +7,16 @@
 //
 
 import UIKit
+import Pods_YTValidation_Example
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        let objValid = Validator()
+        objValid.isValidEmail("test")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 

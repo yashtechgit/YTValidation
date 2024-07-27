@@ -1,0 +1,6 @@
+framework module Pods_YTValidation_Example {
+  umbrella header "Pods-YTValidation_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
